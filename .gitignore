@@ -1,0 +1,39 @@
+# Node
+node_modules/
+
+# Yarn
+.yarn/
+yarn.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output
+/dist
+/dist-ssr
+/.next
+/out
+/build
+
+# Vite
+.vite
+
+# TypeScript
+*.tsbuildinfo
+
+# Env
+.env
+.env.*
+
+# IDEs
+.vscode/
+.idea/
+
+# Misc
+*.local
